@@ -1,4 +1,4 @@
-# (infovis)[https://sebiglesias.com.ar/infovis]
+# infovis
 Repositorio para subir trabajos de Visualizacion de la Información de la Especializacion en Ciencia de Datos del ITBA
 
 ## Listado de Trabajos
