@@ -12,5 +12,4 @@ Repositorio para subir trabajos de Visualizacion de la Información de la Especi
   - Tableau: [17 de Mayo 2020](makeover/2020w19/tableau/20200517-Happiness.html)
   - PowerBI: [17 de Mayo 2020](makeover/2020w19/powerbi/20200517-Happiness.html)
 - Week 20: (Dataset: [Auto Insurance Rate](https://data.world/makeovermonday/2020w20))
-  - Tableau: [](makeover/2020w20/tableau/)
-  - PowerBI: [](makeover/2020w20/tableau/)
+  - Tableau: [](makeover/2020w20/tableau/2020w20-Car.html)
