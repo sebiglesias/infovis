@@ -13,3 +13,7 @@ Repositorio para subir trabajos de Visualizacion de la Información de la Especi
   - PowerBI: [17 de Mayo 2020](makeover/2020w19/powerbi/20200517-Happiness.html)
 - Week 20: (Dataset: [Auto Insurance Rate](https://data.world/makeovermonday/2020w20))
   - Tableau: [](makeover/2020w20/tableau/2020w20-Car.html)
+
+## Timeline 
+
+- Discografía el Cuarteto de Nos: [Timeline](timeline/cuarteto/discografia.html)
