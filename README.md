@@ -17,3 +17,7 @@ Repositorio para subir trabajos de Visualizacion de la Información de la Especi
 ## Timeline 
 
 - Discografía del Cuarteto de Nos: [Timeline](timeline/cuarteto/discografia.html)
+
+## Trabajo Práctico Final
+
+- Análisis de Glucemia: [Tableau Dashboard](tpfinal/tpfinal.html)
