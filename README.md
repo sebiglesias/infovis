@@ -13,6 +13,8 @@ Repositorio para subir trabajos de Visualizacion de la Información de la Especi
   - PowerBI: [17 de Mayo 2020](makeover/2020w19/powerbi/20200517-Happiness.html)
 - Week 20: (Dataset: [Auto Insurance Rate](https://data.world/makeovermonday/2020w20))
   - Tableau: [21 de Mayo 2020](makeover/2020w20/tableau/2020w20-Car.html)
+- Week 21: (Dataset: [40 Years of Music Industry Sales](https://data.world/makeovermonday/2020w21))
+  - Tableau: [26 de Mayo 2020](makeover/2020w20/tableau/2020w21-Music.html)
 
 ## Timeline 
 
@@ -20,4 +22,5 @@ Repositorio para subir trabajos de Visualizacion de la Información de la Especi
 
 ## Trabajo Práctico Final
 
-- Análisis de Glucemia: [Tableau Dashboard](tpfinal/tpfinal.html)
+- Análisis de Glucemia: 
+  - Tableau: [Dashboard](tpfinal/tpfinal.html)
