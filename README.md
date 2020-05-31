@@ -14,7 +14,7 @@ Repositorio para subir trabajos de Visualizacion de la Información de la Especi
 - Week 20: (Dataset: [Auto Insurance Rate](https://data.world/makeovermonday/2020w20))
   - Tableau: [21 de Mayo 2020](makeover/2020w20/tableau/2020w20-Car.html)
 - Week 21: (Dataset: [40 Years of Music Industry Sales](https://data.world/makeovermonday/2020w21))
-  - Tableau: [26 de Mayo 2020](makeover/2020w20/tableau/2020w21-Music.html)
+  - RawGraph SVG: [31 de Mayo 2020](makeover/2020w21/rawgraph/2020w21.html)
 
 ## Timeline 
 
